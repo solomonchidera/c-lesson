@@ -8,6 +8,7 @@ int main(void)
 	{
 		
 		putchar(10);
+
 		for (b = 'a'; b <= 'z'; b++)
 		{
 			printf("%c", b);
