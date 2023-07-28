@@ -7,12 +7,12 @@ int main(void)
 	for (a = 0; a < 10; a++)
 	{
 		
-		putchar(10);
 
 		for (b = 'a'; b <= 'z'; b++)
 		{
 			printf("%c", b);
 		}
 	}
+	putchar(10);
 	return(0);
 }
