@@ -7,6 +7,7 @@ int main(void)
 	for (a = 0; a < 10; a++)
 	{
 		
+
 		for (b = 'a'; b <= 'z'; b++)
 		{
 			printf("%c", b);
